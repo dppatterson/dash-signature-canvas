@@ -1,6 +1,6 @@
-# Dash Signature Pad
+# Dash Signature Canvas
 
-Dash Signature Pad is a Dash component library.
+Dash Signature Canvas is a Dash component library.
 
 signature canvas for dash
 
